@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>আল নাঈম চক্ষু হাসপাতাল | Al Nayem Eye Hospital</title>
+<meta name="description" content="আল নাঈম চক্ষু হাসপাতাল - আফতাবনগর, ঢাকা। রক্তপাতহীন আধুনিক ফ্যাকো ছানি অপারেশন এবং গার্মেন্টস কর্মীদের জন্য বিশেষ চক্ষু সেবা।">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+:root {
+--emerald-dark: #033d29;
+--emerald-main: #065f46;
+--emerald-light: #10b981;
+--emerald-soft: #ecfdf5;
+--accent-red: #dc2626;
+--accent-red-soft: #fef2f2;
+--silver-bg: #f4f6f8;
+--silver-border: #d1d9e0;
+--text-dark: #0f172a;
+--text-muted: #475569;
+--white: #ffffff;
+}
+
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+scroll-behavior: smooth;
+}
+
+body {
+font-family: 'Hind Siliguri', 'Plus Jakarta Sans', sans-serif;
+color: var(--text-dark);
+background-color: var(--white);
+line-height: 1.6;
+}
+
+.en-font {
+font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+/* Top Bar */
+.top-bar {
+background: var(--emerald-dark);
+color: var(--white);
+padding: 8px 5%;
+font-size: 0.9rem;
+display: flex;
+justify-content: space-between;
+align-items: center;
+flex-wrap: wrap;
+gap: 10px;
+}
+
+.top-bar span {
+display: inline-flex;
+align-items: center;
+gap: 6px;
+}
+
+/* Navbar */
+header {
+background: rgba(255, 255, 255, 0.96);
+backdrop-filter: blur(10px);
+border-bottom: 1px solid var(--silver-border);
+position: sticky;
+top: 0;
+z-index: 1000;
+padding: 12px 5%;
+}
+
+.nav-container {
+max-width: 1240px;
+margin: 0 auto;
+display: flex;
+justify-content: space-between;
+align-items: center;
+gap: 15px;
+}
+
+.brand {
+display: flex;
+align-items: center;
+gap: 12px;
+text-decoration: none;
+}
+
+.brand-logo {
+width: 50px;
+height: 50px;
+background: linear-gradient(135deg, #e2e8f0, #cbd5e1);
+border: 2px solid var(--emerald-main);
+border-radius: 50%;
+display: flex;
+align-items: center;
+justify-content: center;
+box-shadow: 0 4px 10px rgba(6, 95, 70, 0.15);
+}
+
+.brand-text h1 {
+font-size: 1.35rem;
+font-weight: 700;
+color: var(--emerald-dark);
+line-height: 1.1;
+}
+
+.brand-text .en-title {
+font-family: 'Plus Jakarta Sans', sans-serif;
+font-size: 0.85rem;
+font-weight: 800;
+letter-spacing: 0.5px;
+color: var(--emerald-main);
+}
+
+.brand-text .en-title .al-highlight {
+font-size:
